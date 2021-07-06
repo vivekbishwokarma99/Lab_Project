@@ -9,3 +9,4 @@ app = K // N
 rem = K % N
 print(f"Number of apples each student will get: {app}")
 print(f"Number of remaining apples in a basket: {rem} ")
+
